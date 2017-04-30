@@ -4,6 +4,7 @@
 ````
   Praticed using Angular2 
   Praticed using Angular Routing
+  Praticed using bootstrap3
 ````
 #User Stories
 ```
